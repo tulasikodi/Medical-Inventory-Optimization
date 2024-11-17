@@ -11,3 +11,7 @@ This project analyzes and optimizes medical inventory data to improve efficiency
 - [Technologies Used](#technologies-used)
 - [How to Run the Project](#how-to-run-the-project)
 - [Future Work](#future-work)
+
+## Introduction
+
+Inventory management is critical for minimizing waste and ensuring efficient operations in the healthcare sector. This project focuses on analyzing sales and return data to identify inefficiencies and provide data-driven recommendations for better inventory planning.
