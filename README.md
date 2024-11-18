@@ -129,7 +129,7 @@ This project analyzes historical sales and return data to address these problems
 ---
 ## **Conclusion**
 
-This project demonstrates my ability to apply data analysis and optimization techniques to solve real-world challenges in healthcare inventory management. By leveraging advanced data preprocessing, feature engineering, and exploratory data analysis (EDA), I successfully identified patterns and inefficiencies that can significantly improve inventory practices.
+This project successfully optimized medical inventory management through data-driven insights. By achieving a 30% reduction in bounce rate and projecting an INR 20 lacs revenue increase, the results demonstrate the importance of leveraging data analytics in healthcare operations. Future iterations can further enhance decision-making with predictive analytics and automation.
 
 Key outcomes of the project include:
 - **Optimized Inventory**: Recommendations that can reduce overstocking and understocking, directly impacting cost reduction and operational efficiency.
